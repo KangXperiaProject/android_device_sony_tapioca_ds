@@ -1,7 +1,7 @@
 #!/bin/sh
 
 VENDOR=sony
-DEVICE=tapioca
+DEVICE=tapioca_ds
 
 BASE=../../../vendor/$VENDOR/$DEVICE/proprietary
 
